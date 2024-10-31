@@ -1,12 +1,3 @@
-# This is a test file.
-
-print("Hello, world!")
-
-# This is a test file.
-
-# This is a test file.
-
-# This is a test file.
 # 一个计算器的程序
 
 # 导入必要的模块
