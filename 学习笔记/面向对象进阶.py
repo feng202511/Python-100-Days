@@ -1,5 +1,7 @@
 class Person:
 
+    __slots__ = ('_name', '_age', '_gender')
+
     def __init__(self,name,age):
         self._name = name
         self._age = age
